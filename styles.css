@@ -100,8 +100,8 @@
         flex-flow: row;
     }
     img{
-        width: 400px;
-        height: 600px;
+        width: 300px;
+        height: 450px;
     }
     .details{
         display: flex;
@@ -168,8 +168,8 @@
         flex-flow: row;
     }
     img{
-        width: 350px;
-        height: 500px;
+        width: 250px;
+        height: 400px;
     }
     .details{
         display: flex;
